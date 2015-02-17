@@ -14,7 +14,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-gem "bcrypt", :require => "bcrypt"
+gem 'bcrypt', '~> 3.1.10'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
